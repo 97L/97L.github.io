@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://l97.coding.me</id>
     <title>白日梦</title>
-    <updated>2019-12-30T07:24:07.298Z</updated>
+    <updated>2019-12-30T07:25:04.030Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://l97.coding.me"/>
     <link rel="self" href="https://l97.coding.me/atom.xml"/>
@@ -16,8 +16,11 @@
         <link href="https://l97.coding.me/post/you-qu-you-yong-de-ren-ji-jiao-wang">
         </link>
         <updated>2019-11-13T09:46:00.000Z</updated>
-        <content type="html"><![CDATA[<p>1：“如果有人一直说个不停，你完全插不上话，掉个东西到地上（钥匙，笔之类的），你弯腰下去捡，然后开始说话。这样，你就可以神不知鬼不觉的打断对方，并且不被他发现。”<br>
-2：“如果有人一直来你办公桌旁边烦你，你继续跟他讲话，但是起身，一起走回他的办公桌。之前有个老板就很会这招。他会把你带回你的办公桌，然后你还纳闷，我怎么回来了。”<br>
+        <summary type="html"><![CDATA[<p>1：“如果有人一直说个不停，你完全插不上话，掉个东西到地上（钥匙，笔之类的），你弯腰下去捡，然后开始说话。这样，你就可以神不知鬼不觉的打断对方，并且不被他发现。”</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>1：“如果有人一直说个不停，你完全插不上话，掉个东西到地上（钥匙，笔之类的），你弯腰下去捡，然后开始说话。这样，你就可以神不知鬼不觉的打断对方，并且不被他发现。”</p>
+<!-- more -->
+<p>2：“如果有人一直来你办公桌旁边烦你，你继续跟他讲话，但是起身，一起走回他的办公桌。之前有个老板就很会这招。他会把你带回你的办公桌，然后你还纳闷，我怎么回来了。”<br>
 3：“当一群人大笑的时候，每个人都会看自己最喜欢的人。”<br>
 4：“如果有人对你发火，而你保持镇定，他们可能会更生气。但之后他们会为自己感到羞愧。”<br>
 5：“在面试之前，提前到达面试地点，在外面跟陌生人聊20分钟天。这会让你的大脑感觉自己对这个环境是熟悉的，从而让你更有自信。”<br>
