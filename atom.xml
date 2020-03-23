@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://97l.github.io</id>
     <title>白日梦</title>
-    <updated>2020-02-24T10:27:39.286Z</updated>
+    <updated>2020-03-23T15:07:10.738Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://97l.github.io"/>
     <link rel="self" href="https://97l.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://97l.github.io/images/avatar.png</logo>
     <icon>https://97l.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 白日梦</rights>
+    <entry>
+        <title type="html"><![CDATA[今天天气晴]]></title>
+        <id>https://97l.github.io/post/jin-tian-tian-qi-qing/</id>
+        <link href="https://97l.github.io/post/jin-tian-tian-qi-qing/">
+        </link>
+        <updated>2020-03-23T15:06:51.000Z</updated>
+        <content type="html"><![CDATA[<p>1</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有趣有用的人际交往]]></title>
         <id>https://97l.github.io/post/you-qu-you-yong-de-ren-ji-jiao-wang/</id>
